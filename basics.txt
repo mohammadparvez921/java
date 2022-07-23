@@ -1,0 +1,29 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class HelloWorld {
+    
+    public static void main(String[] args) {
+        // System.out.print("Hello, World!"); 
+        //  System.out.println("Hello, World!"); 
+        //   System.out.println("Hello, World!");
+          
+        //   //output
+        //   Hello, World!Hello, World!
+        //   Hello, World!
+        
+        // int num=3.4 error;
+        int num=3;
+        // char ch="c";  error
+        // char ch=c;  error
+        char ch='c';
+        double db=2;  //no error automatic typeconversion to double
+        float fl=0.2f;
+        
+        // string st="sakib"; error
+        // String st=sakib;  error
+        String str="sakib";
+        
+        System.out.print(str);
+    }
+}
