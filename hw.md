@@ -9,3 +9,7 @@ Q3-program to print table of 10;
   https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-1-official/ojquestion
 
 https://www.pepcoding.com/resources/online-java-foundation/patterns/pattern-type-2-official/ojquestion
+
+article to read
+
+https://www.javatpoint.com/java-for-loop
